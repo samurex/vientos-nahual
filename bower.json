@@ -24,7 +24,8 @@
     "app-localize-behavior": "PolymerElements/app-localize-behavior#^0.10.1",
     "leaflet-map": "^1.2.0",
     "vientos-iconset": "^0.0.4",
-    "paper-badge": "PolymerElements/paper-badge#^1.1.4"
+    "paper-badge": "PolymerElements/paper-badge#^1.1.4",
+    "dom-repeat-n": "^1.0.4"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
